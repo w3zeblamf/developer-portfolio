@@ -1,6 +1,6 @@
 /* freeCodeCamp Web Responsive Certification.
 - Project Name: Personal Portfolio Webpage
-- GitHub Repository link: 
+- GitHub Repository link: https://w3zeblamf.github.io/developer-portfolio/
 ***************************************** */
 
 
@@ -158,7 +158,7 @@ z-index: 300;
 .section-1 {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(115deg, rgba(58,58,158,0.0), rgba(136,136,206,0.7)), url(images/developer-background-img.jpg) fixed center no-repeat;
+    background: linear-gradient(115deg, rgba(58,58,158,0.0), rgba(136,136,206,0.7)), url(https://w3zeblamf.github.io/developer-portfolio/images/developer-background-img.jpg) fixed center no-repeat;
     background-size: cover;
     flex-direction: column;
   
@@ -457,7 +457,7 @@ flex-wrap: wrap;
     width: 100%;
     height: 85vh;
     padding: 0 2rem;
-    background: linear-gradient(115deg, rgba(58,58,158,0.3), rgba(136,136,206,0.7)), url(images/developer-background-img-2.jpg)
+    background: linear-gradient(115deg, rgba(58,58,158,0.3), rgba(136,136,206,0.7)), url(https://w3zeblamf.github.io/developer-portfolio/images/developer-background-img-2.jpg)
     fixed center no-repeat;
     background-size: cover;
 }
